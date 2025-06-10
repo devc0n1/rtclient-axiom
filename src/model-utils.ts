@@ -23,6 +23,7 @@ export const isServerMessageType = (
     "conversation.item.deleted",
     "conversation.item.input_audio_transcription.completed",
     "conversation.item.input_audio_transcription.failed",
+    "transcription_session.updated",
     "conversation.item.retrieved",
 		"conversation.item.retrieve",
     "response.created",
